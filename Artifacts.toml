@@ -1,0 +1,264 @@
+[[gecko]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3c9b0ea22efe0dfe469287da6bf8983dff46f6be"
+libc = "glibc"
+os = "linux"
+
+    [[gecko.download]]
+    sha256 = "94a17396b61ef8b36db3a0548fb8746b49eb9a25a9486a4b58136780e73c527f"
+    url = "https://github.com/JuliaBinaryWrappers/gecko_jll.jl/releases/download/gecko-v1.0.0+0/gecko.v1.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[gecko]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "897a3b27b11ed6cc49d49700f538abc02f173806"
+libc = "glibc"
+os = "linux"
+
+    [[gecko.download]]
+    sha256 = "869f0935075f65e45289c164a4c0ad1019128d841357d3e4e24dbe7ade0de7e2"
+    url = "https://github.com/JuliaBinaryWrappers/gecko_jll.jl/releases/download/gecko-v1.0.0+0/gecko.v1.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[gecko]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1d7be45f59cacf12fb185db654f947a25f9458c2"
+libc = "musl"
+os = "linux"
+
+    [[gecko.download]]
+    sha256 = "e6545021ea6079aa53f0ef48193f3104c7950012bb820aa4c3786ddb51489483"
+    url = "https://github.com/JuliaBinaryWrappers/gecko_jll.jl/releases/download/gecko-v1.0.0+0/gecko.v1.0.0.aarch64-linux-musl-cxx03.tar.gz"
+[[gecko]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f1af430ffa9aca953724f08bc3195bf6445f09b4"
+libc = "musl"
+os = "linux"
+
+    [[gecko.download]]
+    sha256 = "3f03d14b7ac95f4389a916ba5ec85f1897e76fc99197018d8e51983d1cb16d2d"
+    url = "https://github.com/JuliaBinaryWrappers/gecko_jll.jl/releases/download/gecko-v1.0.0+0/gecko.v1.0.0.aarch64-linux-musl-cxx11.tar.gz"
+[[gecko]]
+arch = "aarch64"
+git-tree-sha1 = "449350f4c8c251a52b415015653c35cd17666005"
+os = "freebsd"
+
+    [[gecko.download]]
+    sha256 = "b149a0acb78d47363373d4fbff0b5380ea6d48a5416ea68d2319e818fc18c3d8"
+    url = "https://github.com/JuliaBinaryWrappers/gecko_jll.jl/releases/download/gecko-v1.0.0+0/gecko.v1.0.0.aarch64-unknown-freebsd.tar.gz"
+[[gecko]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f5df7d7e6bd2e24f9917ab77ffbd0d207ce58155"
+libc = "glibc"
+os = "linux"
+
+    [[gecko.download]]
+    sha256 = "cdd3db927af8f13a8e27a7ccf58d7f6d824a5e7d28d20b699b769270da9e0959"
+    url = "https://github.com/JuliaBinaryWrappers/gecko_jll.jl/releases/download/gecko-v1.0.0+0/gecko.v1.0.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[gecko]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "08c2e797b48773af543f5af7623c2d17ab9520d2"
+libc = "glibc"
+os = "linux"
+
+    [[gecko.download]]
+    sha256 = "079d5b6d509f3fc832a4b2015fa4e839b07dcdbb724b6892114dea2d801a53de"
+    url = "https://github.com/JuliaBinaryWrappers/gecko_jll.jl/releases/download/gecko-v1.0.0+0/gecko.v1.0.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[gecko]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9d639b933a7a24ad5d9be38c0d9aabe0e6580b49"
+libc = "musl"
+os = "linux"
+
+    [[gecko.download]]
+    sha256 = "430e0aa6c646c1137aadd52159aebe90f4e8ba456d1c537bbade0d26aaa88b19"
+    url = "https://github.com/JuliaBinaryWrappers/gecko_jll.jl/releases/download/gecko-v1.0.0+0/gecko.v1.0.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[gecko]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c61577053b9692c91e3cb80ba30db10cfeed29e2"
+libc = "musl"
+os = "linux"
+
+    [[gecko.download]]
+    sha256 = "f33a67c021196200608021ceb0b4f3af184be9be94b8f21c73bde05fa738e3f5"
+    url = "https://github.com/JuliaBinaryWrappers/gecko_jll.jl/releases/download/gecko-v1.0.0+0/gecko.v1.0.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[gecko]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "15bc424c097ba98096bf01ff3a5edf066cc2bf08"
+libc = "glibc"
+os = "linux"
+
+    [[gecko.download]]
+    sha256 = "3675a7674cf560fbcb014f0ac0094545e374932da00e3021577351620d149e02"
+    url = "https://github.com/JuliaBinaryWrappers/gecko_jll.jl/releases/download/gecko-v1.0.0+0/gecko.v1.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[gecko]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2c414159c72c58a6166724203b2e218edcc7bcd0"
+libc = "glibc"
+os = "linux"
+
+    [[gecko.download]]
+    sha256 = "3020d9ada49ca3184aeb7835ce94e46774afac37210c4b83f31a22602a1e7f4f"
+    url = "https://github.com/JuliaBinaryWrappers/gecko_jll.jl/releases/download/gecko-v1.0.0+0/gecko.v1.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[gecko]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0f7152363aaafff266d0d4ae03bbb5dcb9c2fe8f"
+libc = "musl"
+os = "linux"
+
+    [[gecko.download]]
+    sha256 = "04aa1dde15a140787cb56325ebf52f807345639cbbe12a15fdd9b2916c840344"
+    url = "https://github.com/JuliaBinaryWrappers/gecko_jll.jl/releases/download/gecko-v1.0.0+0/gecko.v1.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[gecko]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3b5f4470c4b322a7fb572dbe8d7e582d6f1da048"
+libc = "musl"
+os = "linux"
+
+    [[gecko.download]]
+    sha256 = "341e9f3efbc4a9f3e858ec1ff1d8d9d0f870fdfa4b158513f5c35a1ee6bdd925"
+    url = "https://github.com/JuliaBinaryWrappers/gecko_jll.jl/releases/download/gecko-v1.0.0+0/gecko.v1.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[gecko]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "44d22d99b88b254fd924c6d531963f0dcdf60025"
+libc = "glibc"
+os = "linux"
+
+    [[gecko.download]]
+    sha256 = "48b1bda9b3c218beacca4f78ee5b30cc7d9533fe790b76428d6842a98ab33db2"
+    url = "https://github.com/JuliaBinaryWrappers/gecko_jll.jl/releases/download/gecko-v1.0.0+0/gecko.v1.0.0.i686-linux-gnu-cxx03.tar.gz"
+[[gecko]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "560873481b1763e015a9b31d3466459563cc30c1"
+libc = "glibc"
+os = "linux"
+
+    [[gecko.download]]
+    sha256 = "40b16972f5f9d379b7f64e6bde17d21145319af5fd03005a8e0ac4e97c5ade9a"
+    url = "https://github.com/JuliaBinaryWrappers/gecko_jll.jl/releases/download/gecko-v1.0.0+0/gecko.v1.0.0.i686-linux-gnu-cxx11.tar.gz"
+[[gecko]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ece68c57a1efc310b34df278d493cf70225418c4"
+libc = "musl"
+os = "linux"
+
+    [[gecko.download]]
+    sha256 = "5f22b5e0102d0644096efdbc188858a3d100905260e621665781a6cd12704c16"
+    url = "https://github.com/JuliaBinaryWrappers/gecko_jll.jl/releases/download/gecko-v1.0.0+0/gecko.v1.0.0.i686-linux-musl-cxx03.tar.gz"
+[[gecko]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cc8c9ed8a18c6e4246502c0c94b4ec137ff07387"
+libc = "musl"
+os = "linux"
+
+    [[gecko.download]]
+    sha256 = "809684d33c49d8ab628e7fb120b04033f4e6c5e02382cb3ff07141210eb316e2"
+    url = "https://github.com/JuliaBinaryWrappers/gecko_jll.jl/releases/download/gecko-v1.0.0+0/gecko.v1.0.0.i686-linux-musl-cxx11.tar.gz"
+[[gecko]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8de756a016bb36e2f24a3c4c13a4b443d2acfbc0"
+libc = "glibc"
+os = "linux"
+
+    [[gecko.download]]
+    sha256 = "e1bbab51273ac32d83cac1f6340512ea9020ac7e77ec8baf67e9d1055d1db9de"
+    url = "https://github.com/JuliaBinaryWrappers/gecko_jll.jl/releases/download/gecko-v1.0.0+0/gecko.v1.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[gecko]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0aebc8ce0ee68f66ee5b58ccb7abb697c2af64c8"
+libc = "glibc"
+os = "linux"
+
+    [[gecko.download]]
+    sha256 = "5875bb27114d75abbf95e43aaf22fba417fab27ba775fb7e897cf647a8c336c0"
+    url = "https://github.com/JuliaBinaryWrappers/gecko_jll.jl/releases/download/gecko-v1.0.0+0/gecko.v1.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[gecko]]
+arch = "riscv64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3e86e2699774f4bb5e9e9b56f0bec964a80ed7da"
+libc = "glibc"
+os = "linux"
+
+    [[gecko.download]]
+    sha256 = "a1ea4bac4c04a642b9d7b28aced1c7c42135cba01a14f3ab6bc6af6533e62147"
+    url = "https://github.com/JuliaBinaryWrappers/gecko_jll.jl/releases/download/gecko-v1.0.0+0/gecko.v1.0.0.riscv64-linux-gnu-cxx03.tar.gz"
+[[gecko]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fba433e52f59ce7f26b0d0130b484cd7ed477947"
+libc = "glibc"
+os = "linux"
+
+    [[gecko.download]]
+    sha256 = "c3ff761b1dd160194ad1c430a132f8e6443b613bbfa0df6860feb177bc358637"
+    url = "https://github.com/JuliaBinaryWrappers/gecko_jll.jl/releases/download/gecko-v1.0.0+0/gecko.v1.0.0.riscv64-linux-gnu-cxx11.tar.gz"
+[[gecko]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "698927339bfeca1d19faf020b9d3f2499648f311"
+libc = "glibc"
+os = "linux"
+
+    [[gecko.download]]
+    sha256 = "d43a06d885ff3c57ab67ec3ee66c54cd74863b679981e52c64ac1eeb41c721e7"
+    url = "https://github.com/JuliaBinaryWrappers/gecko_jll.jl/releases/download/gecko-v1.0.0+0/gecko.v1.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[gecko]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cb2ed6a6e65c5f079b78cc42f3d12734f593c877"
+libc = "glibc"
+os = "linux"
+
+    [[gecko.download]]
+    sha256 = "6c44279f44b418f57786053fb0f11fad8b8bbb7e62908df21ac0bc4a942aff4d"
+    url = "https://github.com/JuliaBinaryWrappers/gecko_jll.jl/releases/download/gecko-v1.0.0+0/gecko.v1.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[gecko]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3a729941d30384b38f957781de523ce54281ba25"
+libc = "musl"
+os = "linux"
+
+    [[gecko.download]]
+    sha256 = "dde0cb6ea78ada2ec6462b8e9c597d50aad0ab875049437d00345bc0bce9d6df"
+    url = "https://github.com/JuliaBinaryWrappers/gecko_jll.jl/releases/download/gecko-v1.0.0+0/gecko.v1.0.0.x86_64-linux-musl-cxx03.tar.gz"
+[[gecko]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b6e00639f63e2cc5ee7cc0c4c9348fe8ef5ac158"
+libc = "musl"
+os = "linux"
+
+    [[gecko.download]]
+    sha256 = "21be31c2a42b6938f9d6220c84870f9cfd1c663586ff509571da59bf7173b6e0"
+    url = "https://github.com/JuliaBinaryWrappers/gecko_jll.jl/releases/download/gecko-v1.0.0+0/gecko.v1.0.0.x86_64-linux-musl-cxx11.tar.gz"
+[[gecko]]
+arch = "x86_64"
+git-tree-sha1 = "e00fc6bb5a8c67f415639fec6647ef9329c36dd3"
+os = "freebsd"
+
+    [[gecko.download]]
+    sha256 = "8176a0d26dd14e820561195baa796e7672ea3b9b632ff68bd8fafbd3cf8c5976"
+    url = "https://github.com/JuliaBinaryWrappers/gecko_jll.jl/releases/download/gecko-v1.0.0+0/gecko.v1.0.0.x86_64-unknown-freebsd.tar.gz"
